@@ -320,3 +320,8 @@ iframe {
 .icon-left {
   left: 20px;
 }
+a{
+  color:purple;
+  text-decoration: none;
+
+}
